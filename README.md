@@ -56,7 +56,7 @@ Evaluation metrics are visualized and explained in the notebook.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-churn-ann.git
+   git clone https://github.com/prateek-g-bit/credit-card-churn-ann.git
    cd credit-card-churn-ann
 2. Install dependencies:
    pip install -r requirements.txt
